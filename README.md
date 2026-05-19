@@ -6,7 +6,6 @@
 Geleneksel perakende esnafı, veresiye defterleri ve dağınık faturalar arasında kaybolmakta, nakit akışını yönetmekte zorlanmaktadır. **Gross**, sadece geçmişi raporlayan klasik bir muhasebe uygulaması değildir. Kasa, stok, veresiye ve görevleri tek bir merkezde toplayarak işletme sahibine **"Gelecekte ne yapması gerektiğini"** söyleyen proaktif bir asistandır.
 
 ## 🧠 Agentic (Otonom) Yapay Zeka Entegrasyonu
-Hackathon'un "Agentic Yapılar" isterine uygun olarak, projedeki Yapay Zeka basit bir "Soru-Cevap" botu değildir. Otonom bir CFO (Finans Direktörü) gibi çalışır:
 
 * **Bağlamsal Analiz (Context Awareness):** Arayüzde seçilen tarih aralığına göre, arka planda gizlice **Kasadaki Nakit**, **Bekleyen Faturalar**, **Veresiye Alacakları** ve **Kritik Stokları** (10 adet altı) tarar.
 * **Risk Tahmini:** Kasa bakiyesi, yaklaşan faturaları karşılamıyorsa işletmeciyi esnaf diliyle doğrudan uyarır.
