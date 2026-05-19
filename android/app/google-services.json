@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556227338507",
+    "project_id": "gross-ec4ea",
+    "storage_bucket": "gross-ec4ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556227338507:android:321fa7787ff06115ef820e",
+        "android_client_info": {
+          "package_name": "com.example.gross"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1t5mY5iiUtNSUUl0baeAqNqfpYpCZ-rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
