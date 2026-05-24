@@ -33,7 +33,7 @@ Projeyi kendi ortamınızda çalıştırmak için:
    `GEMINI_API_KEY=sizin_api_anahtariniz_buraya`
 4. Uygulamayı başlatın: `flutter run`
 
-5. ## Lisans
+## 🔒 Lisans
 
 Bu proje tescilli bir yazılımdır.
 
