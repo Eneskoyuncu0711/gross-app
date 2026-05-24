@@ -32,3 +32,11 @@ Projeyi kendi ortamınızda çalıştırmak için:
 3. Projenin kök dizinine `.env` adında bir dosya oluşturun ve Google Gemini API anahtarınızı ekleyin:
    `GEMINI_API_KEY=sizin_api_anahtariniz_buraya`
 4. Uygulamayı başlatın: `flutter run`
+
+5. ## Lisans
+
+Bu proje tescilli bir yazılımdır.
+
+İzinsiz kullanım, kopyalama, değiştirme, dağıtım veya ticari kullanım kesinlikle yasaktır.
+
+Daha fazla ayrıntı için LICENSE dosyasına bakın.
