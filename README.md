@@ -35,7 +35,7 @@ Projeyi kendi ortamınızda çalıştırmak için:
 
 ## 🔒 Lisans
 
-Bu proje tescilli bir yazılımdır.
+Bu uygulama ve kaynak kodları koruma altındadır.
 
 İzinsiz kullanım, kopyalama, değiştirme, dağıtım veya ticari kullanım kesinlikle yasaktır.
 
